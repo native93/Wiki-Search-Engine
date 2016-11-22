@@ -1,7 +1,7 @@
 
 INDEXING STRUCTURE:
 
-|-- bin <br/> 
+<pre>|-- bin <br/> 
 |-- Index <br/>
 |   |-- body <br/>
 |   |   -- final.txt <br/>
@@ -20,7 +20,7 @@ INDEXING STRUCTURE:
  -- src <br>
     |-- code.py <br>
     |-- stopwords.txt
-
+</pre>
 LIBRARIES : 
 
 	PyStemmer - for stemming
