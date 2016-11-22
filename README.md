@@ -1,8 +1,17 @@
 
 INDEXING STRUCTURE:
 
-|-- bin
-|-- Index
+<ul>
+|-- <li>bin</li>
+|-- <li>Index
+	<ul>
+		body
+		<ul>
+		<li> final.txt </li>
+		</ul>
+	</ul>
+    </li>
+    </ul>
 |   |-- body
 |   |   `-- final.txt
 |   |-- category
