@@ -1,24 +1,24 @@
 
 INDEXING STRUCTURE:
 
-<pre>|-- bin <br/> 
-|-- Index <br/>
-|   |-- body <br/>
-|   |   -- final.txt <br/>
-|   |-- category <br>
-|   |   -- final.txt <br>
-|   |-- external_links <br>
-|   |   -- final.txt <br>
-|   |-- infobox <br>
-|   |   -- final.txt <br>
-|   |-- reference <br>
-|   |   -- final.txt <br>
-|   |-- title <br>
-|       -- final.txt <br>
-|-- README.txt <br>
-|-- run.sh <br>
- -- src <br>
-    |-- code.py <br>
+<pre>|-- bin 
+|-- Index 
+|   |-- body 
+|   |   -- final.txt 
+|   |-- category
+|   |   -- final.txt
+|   |-- external_links
+|   |   -- final.txt
+|   |-- infobox
+|   |   -- final.txt
+|   |-- reference 
+|   |   -- final.txt 
+|   |-- title 
+|       -- final.txt
+|-- README.txt 
+|-- run.sh 
+ -- src 
+    |-- code.py 
     |-- stopwords.txt
 </pre>
 LIBRARIES : 
